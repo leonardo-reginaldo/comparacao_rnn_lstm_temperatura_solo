@@ -50,6 +50,7 @@ O modelo é desenvolvido em **Python**, utilizando bibliotecas de aprendizado pr
 
 ## 📊 Estrutura do Projeto
 
-
+<p>
 /bases_csv
+</p>
 /Entrega
