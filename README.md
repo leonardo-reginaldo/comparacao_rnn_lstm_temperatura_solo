@@ -1,0 +1,1 @@
+Implementar uma solução em Python, usando redes neurais recorrentes, capaz de estimar um ano de temperatura do solo, a partir dos dados informados para os anos anteriores. Comparar o desempenho de uma RNN simples com uma estrutura do tipo "Long Short-Term Memory" (LSTM) traduzido pt-br (Memória de Longo e Curto Prazo).
