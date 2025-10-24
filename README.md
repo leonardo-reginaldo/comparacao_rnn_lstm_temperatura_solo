@@ -1,6 +1,6 @@
 <!-- Ícone ou pequeno "favicon" -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" alt="Ícone de IA" width="90">
+  <img src="https://img.shields.io/badge/AI-Exploration-6DD3B6?logo=ai&logoColor=white" alt="AI badge">
 </p>
 
 <h1 align="center">🌡️ Estimativa de Temperatura do Solo</h1>
