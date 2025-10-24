@@ -57,7 +57,9 @@ O modelo é desenvolvido em **Python**, utilizando bibliotecas de aprendizado pr
 /Entrega
 </p>
 <p>
-🧑‍💻 Autor
+  
+## 🧑‍💻 Autor
+
 </p>
   Leonardo Andrade
   https://www.linkedin.com/in/leonardo-andrade-it/
