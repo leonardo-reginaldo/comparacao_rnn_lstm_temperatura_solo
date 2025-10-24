@@ -44,7 +44,7 @@ O modelo é desenvolvido em **Python**, utilizando bibliotecas de aprendizado pr
 | Deep Learning | 🧠 TensorFlow / Keras |
 | Manipulação de dados | 📊 Pandas, NumPy |
 | Visualização | 📈 Matplotlib, Seaborn |
-| Ambiente | 💻 Jupyter Notebook |
+| Ambiente | 💻 Google Colab |
 
 ---
 
